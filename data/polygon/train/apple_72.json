@@ -1,0 +1,44 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "apple",
+      "points": [
+        [
+          26,
+          56
+        ],
+        [
+          222,
+          56
+        ],
+        [
+          222,
+          239
+        ],
+        [
+          26,
+          239
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "apple_72.jpg",
+  "imageData": null
+}

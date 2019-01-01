@@ -1,0 +1,68 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "banana",
+      "points": [
+        [
+          65,
+          18
+        ],
+        [
+          693,
+          192
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          120,
+          106
+        ],
+        [
+          707,
+          416
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          279,
+          14
+        ],
+        [
+          720,
+          308
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "banana_74.jpg",
+  "imageData": null
+}

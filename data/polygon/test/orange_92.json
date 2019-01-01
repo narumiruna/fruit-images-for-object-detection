@@ -1,0 +1,44 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "orange",
+      "points": [
+        [
+          174,
+          20
+        ],
+        [
+          364,
+          20
+        ],
+        [
+          364,
+          199
+        ],
+        [
+          174,
+          199
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "orange_92.jpg",
+  "imageData": null
+}

@@ -1,0 +1,68 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "orange",
+      "points": [
+        [
+          67,
+          163
+        ],
+        [
+          441,
+          541
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          209,
+          134
+        ],
+        [
+          866,
+          348
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          263,
+          267
+        ],
+        [
+          849,
+          551
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "mixed_18.jpg",
+  "imageData": null
+}

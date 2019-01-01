@@ -1,0 +1,44 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "banana",
+      "points": [
+        [
+          133,
+          165
+        ],
+        [
+          922,
+          165
+        ],
+        [
+          922,
+          525
+        ],
+        [
+          133,
+          525
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "banana_82.jpg",
+  "imageData": null
+}

@@ -1,0 +1,36 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "banana",
+      "points": [
+        [
+          17,
+          1
+        ],
+        [
+          1590,
+          624
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "banana_70.jpg",
+  "imageData": null
+}

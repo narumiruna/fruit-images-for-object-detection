@@ -1,0 +1,68 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "orange",
+      "points": [
+        [
+          138,
+          250
+        ],
+        [
+          402,
+          563
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          129,
+          98
+        ],
+        [
+          449,
+          353
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          204,
+          34
+        ],
+        [
+          753,
+          336
+        ]
+      ],
+      "shape_type": "rectangle",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "mixed_13.jpg",
+  "imageData": null
+}

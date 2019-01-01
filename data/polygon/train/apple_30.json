@@ -1,0 +1,140 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "apple",
+      "points": [
+        [
+          254,
+          163
+        ],
+        [
+          582,
+          163
+        ],
+        [
+          582,
+          487
+        ],
+        [
+          254,
+          487
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          217,
+          448
+        ],
+        [
+          535,
+          448
+        ],
+        [
+          535,
+          713
+        ],
+        [
+          217,
+          713
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          603,
+          470
+        ],
+        [
+          800,
+          470
+        ],
+        [
+          800,
+          716
+        ],
+        [
+          603,
+          716
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          468,
+          179
+        ],
+        [
+          727,
+          179
+        ],
+        [
+          727,
+          467
+        ],
+        [
+          468,
+          467
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          1,
+          63
+        ],
+        [
+          308,
+          63
+        ],
+        [
+          308,
+          414
+        ],
+        [
+          1,
+          414
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "apple_30.jpg",
+  "imageData": null
+}

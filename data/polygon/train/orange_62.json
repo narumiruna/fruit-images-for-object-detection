@@ -1,0 +1,68 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "orange",
+      "points": [
+        [
+          56,
+          73
+        ],
+        [
+          314,
+          73
+        ],
+        [
+          314,
+          321
+        ],
+        [
+          56,
+          321
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          357,
+          35
+        ],
+        [
+          656,
+          35
+        ],
+        [
+          656,
+          334
+        ],
+        [
+          357,
+          334
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "orange_62.jpg",
+  "imageData": null
+}

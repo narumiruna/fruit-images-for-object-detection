@@ -1,0 +1,140 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "apple",
+      "points": [
+        [
+          584,
+          438
+        ],
+        [
+          867,
+          438
+        ],
+        [
+          867,
+          708
+        ],
+        [
+          584,
+          708
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          492,
+          141
+        ],
+        [
+          740,
+          141
+        ],
+        [
+          740,
+          394
+        ],
+        [
+          492,
+          394
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          176,
+          199
+        ],
+        [
+          490,
+          199
+        ],
+        [
+          490,
+          466
+        ],
+        [
+          176,
+          466
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          367,
+          17
+        ],
+        [
+          619,
+          17
+        ],
+        [
+          619,
+          240
+        ],
+        [
+          367,
+          240
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          642,
+          35
+        ],
+        [
+          907,
+          35
+        ],
+        [
+          907,
+          269
+        ],
+        [
+          642,
+          269
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "apple_3.jpg",
+  "imageData": null
+}

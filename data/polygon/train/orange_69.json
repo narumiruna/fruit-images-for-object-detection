@@ -1,0 +1,116 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "orange",
+      "points": [
+        [
+          27,
+          247
+        ],
+        [
+          291,
+          247
+        ],
+        [
+          291,
+          499
+        ],
+        [
+          27,
+          499
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          733,
+          268
+        ],
+        [
+          1004,
+          268
+        ],
+        [
+          1004,
+          535
+        ],
+        [
+          733,
+          535
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          543,
+          213
+        ],
+        [
+          796,
+          213
+        ],
+        [
+          796,
+          440
+        ],
+        [
+          543,
+          440
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          283,
+          247
+        ],
+        [
+          517,
+          247
+        ],
+        [
+          517,
+          455
+        ],
+        [
+          283,
+          455
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "orange_69.jpg",
+  "imageData": null
+}

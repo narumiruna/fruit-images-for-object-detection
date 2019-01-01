@@ -1,0 +1,92 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "apple",
+      "points": [
+        [
+          147,
+          45
+        ],
+        [
+          288,
+          45
+        ],
+        [
+          288,
+          202
+        ],
+        [
+          147,
+          202
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          46,
+          40
+        ],
+        [
+          148,
+          40
+        ],
+        [
+          148,
+          149
+        ],
+        [
+          46,
+          149
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          86,
+          108
+        ],
+        [
+          197,
+          108
+        ],
+        [
+          197,
+          217
+        ],
+        [
+          86,
+          217
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "apple_50.jpg",
+  "imageData": null
+}

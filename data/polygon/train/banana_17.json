@@ -1,0 +1,116 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "banana",
+      "points": [
+        [
+          114,
+          105
+        ],
+        [
+          284,
+          105
+        ],
+        [
+          284,
+          393
+        ],
+        [
+          114,
+          393
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          328,
+          128
+        ],
+        [
+          440,
+          128
+        ],
+        [
+          440,
+          444
+        ],
+        [
+          328,
+          444
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          360,
+          88
+        ],
+        [
+          511,
+          88
+        ],
+        [
+          511,
+          345
+        ],
+        [
+          360,
+          345
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          232,
+          141
+        ],
+        [
+          343,
+          141
+        ],
+        [
+          343,
+          458
+        ],
+        [
+          232,
+          458
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "banana_17.jpg",
+  "imageData": null
+}

@@ -1,0 +1,140 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "orange",
+      "points": [
+        [
+          42,
+          41
+        ],
+        [
+          193,
+          41
+        ],
+        [
+          193,
+          182
+        ],
+        [
+          42,
+          182
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          158,
+          1
+        ],
+        [
+          299,
+          1
+        ],
+        [
+          299,
+          109
+        ],
+        [
+          158,
+          109
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          284,
+          17
+        ],
+        [
+          355,
+          17
+        ],
+        [
+          355,
+          147
+        ],
+        [
+          284,
+          147
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          1,
+          15
+        ],
+        [
+          61,
+          15
+        ],
+        [
+          61,
+          138
+        ],
+        [
+          1,
+          138
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "orange",
+      "points": [
+        [
+          34,
+          1
+        ],
+        [
+          172,
+          1
+        ],
+        [
+          172,
+          85
+        ],
+        [
+          34,
+          85
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "orange_90.jpg",
+  "imageData": null
+}

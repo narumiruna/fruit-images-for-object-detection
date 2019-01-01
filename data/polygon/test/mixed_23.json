@@ -1,0 +1,140 @@
+{
+  "version": "3.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "orange",
+      "points": [
+        [
+          146,
+          205
+        ],
+        [
+          493,
+          205
+        ],
+        [
+          493,
+          594
+        ],
+        [
+          146,
+          594
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "apple",
+      "points": [
+        [
+          252,
+          528
+        ],
+        [
+          571,
+          528
+        ],
+        [
+          571,
+          821
+        ],
+        [
+          252,
+          821
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          468,
+          49
+        ],
+        [
+          1228,
+          49
+        ],
+        [
+          1228,
+          287
+        ],
+        [
+          468,
+          287
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          540,
+          208
+        ],
+        [
+          1244,
+          208
+        ],
+        [
+          1244,
+          464
+        ],
+        [
+          540,
+          464
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    },
+    {
+      "label": "banana",
+      "points": [
+        [
+          506,
+          301
+        ],
+        [
+          1279,
+          301
+        ],
+        [
+          1279,
+          574
+        ],
+        [
+          506,
+          574
+        ]
+      ],
+      "shape_type": "polygon",
+      "line_color": null,
+      "fill_color": null
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "mixed_23.jpg",
+  "imageData": null
+}
